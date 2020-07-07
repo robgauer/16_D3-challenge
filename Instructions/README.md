@@ -2,13 +2,7 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Rob Gauer
-Date Due:  July 7, 2020
-## D3 Homework - README.md
-(FYI - YOU are currently reading this document...)  
- https://github.com/robgauer/D3-challenge/blob/master/README.md
-
-# OVERVIEW
+## Background
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
